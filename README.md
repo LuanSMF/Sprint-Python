@@ -173,11 +173,11 @@ O menu principal será exibido no terminal, permitindo navegar pelas funcionalid
 
 Projeto desenvolvido pela equipe IRIS:
 
-- Manuella Thomazini
-- João Nóbrega
-- Kevin Simões
-- Luan Sá
-- Flávia Camerim
+- Manuella Thomazini RM 573606
+- João Nóbrega RM 570322
+- Kevin Simões RM 571942
+- Luan Sá RM 569136
+- Flávia Camerim RM 570979
 
 **Instituição:** FIAP  
 **Disciplina:** Computational Thinking with Python  
